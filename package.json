@@ -6,7 +6,7 @@
   "homepage": "https://ladyjhen.github.io/weather-weather/",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /Weather-app-project/"
+    "build": "parcel build src/*.html --public-url /weather-weather/"
   },
   "repository": {
     "type": "git",
