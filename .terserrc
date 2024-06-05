@@ -1,0 +1,12 @@
+{
+  "ecma": 2020,
+  "warnings": true,
+  "compress": {
+    "drop_console": true
+  },
+  "mangle": true,
+  "output": {
+    "comments": false,
+    "beautify": false
+  }
+}
