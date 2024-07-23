@@ -3,7 +3,7 @@
   "version": "2.12.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://ladyjhen.github.io/weather-weather/"
+  "homepage": "https://ladyjhen.github.io/weather-weather/",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /Weather-app-project/"
