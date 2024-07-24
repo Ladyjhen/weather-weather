@@ -40,5 +40,10 @@
     "moment-timezone": "^0.5.45",
     "siema": "^1.5.1",
     "handlebars": "^4.7.8"
-  }
+  },
+  "browserslist": [
+    "> 0.5%",
+    "last 2 versions",
+    "not dead"
+  ]
 }
