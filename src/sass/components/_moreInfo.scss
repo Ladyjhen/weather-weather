@@ -1,19 +1,18 @@
 .more-info {
   padding-top: 8px;
-
-  // Move this declaration up
+  
+  // Move declarations above nested rules
   min-width: 120px;
-
-  &:not(:last-child) {
-    margin-right: 10px;
-  }
-
   height: 220px;
   font-size: 14px;
   text-align: center;
   color: #ffffff8a;
   border: 1px solid #ffffff8a;
   border-radius: 25px;
+
+  &:not(:last-child) {
+    margin-right: 10px;
+  }
 
   &:hover {
     background-color: rgba(255, 255, 255, 0.1);
@@ -30,7 +29,7 @@
     line-height: 1.833;
     margin-top: 15px;
   }
-  
+
   &-temp {
     font-size: 18px;
     color: #ff6b08;
