@@ -492,7 +492,7 @@
 101C:\Users\Jen Durana\Desktop\FSON4\weather-weather\node_modules\@parcel\transformer-html\lib\inline.js133663112811627351 0
 84C:\Users\Jen Durana\Desktop\FSON4\weather-weather\node_modules\shallow-copy\index.js133663112761047124 0
 73C:\Users\Jen Durana\Desktop\FSON4\weather-weather\node_modules\ansi-regex133663112769694431 1
-68C:\Users\Jen Durana\Desktop\FSON4\weather-weather\src\sass\main.scss133669167870595409 0
+68C:\Users\Jen Durana\Desktop\FSON4\weather-weather\src\sass\main.scss133669192270851354 0
 74C:\Users\Jen Durana\Desktop\FSON4\weather-weather\node_modules\cross-spawn133663112803571179 1
 96C:\Users\Jen Durana\Desktop\FSON4\weather-weather\node_modules\css-tree\lib\syntax\pseudo\dir.js133663112891772371 0
 98C:\Users\Jen Durana\Desktop\FSON4\weather-weather\node_modules\caniuse-lite\data\features\webgl.js133663112971836928 0
@@ -535,7 +535,7 @@
 81C:\Users\Jen Durana\Desktop\FSON4\weather-weather\node_modules\events\.airtap.yml133663112857297236 0
 80C:\Users\Jen Durana\Desktop\FSON4\weather-weather\node_modules\util\package.json133663112734654986 0
 81C:\Users\Jen Durana\Desktop\FSON4\weather-weather\node_modules\lmdb\src\lmdb-js.h133663112910013890 0
-84C:\Users\Jen Durana\Desktop\FSON4\weather-weather\src\sass\components\_moreInfo.scss133669188031310778 0
+84C:\Users\Jen Durana\Desktop\FSON4\weather-weather\src\sass\components\_moreInfo.scss133669190499974492 0
 99C:\Users\Jen Durana\Desktop\FSON4\weather-weather\node_modules\request\node_modules\qs\lib\utils.js133663112836392503 0
 88C:\Users\Jen Durana\Desktop\FSON4\weather-weather\node_modules\domutils\lib\stringify.js133663112818534518 0
 147C:\Users\Jen Durana\Desktop\FSON4\weather-weather\node_modules\postcss-merge-rules\node_modules\postcss-selector-parser\dist\selectors\universal.js133663112854567252 0
