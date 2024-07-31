@@ -1,13 +1,13 @@
 .more-info {
   padding-top: 8px;
 
-&:not(:last-child) {
-  margin-right: 10px;
+  &:not(:last-child) {
+    margin-right: 10px;
+  }
+  & {
+    min-width: 120px;
   }
   
-
-  list-style: none;
-  min-width: 120px;
   height: 220px;
   font-size: 14px;
   text-align: center;
